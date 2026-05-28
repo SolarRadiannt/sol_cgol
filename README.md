@@ -3,4 +3,5 @@ the game start paused
 
 Controls:
 
-pause: Right LMB
+spawn cells: RMB
+pause: LMB
