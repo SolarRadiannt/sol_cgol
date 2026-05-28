@@ -1,6 +1,6 @@
 Info:
 
-the game start paused
+- the game start paused
 
 
 Controls:
