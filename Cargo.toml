@@ -1,0 +1,13 @@
+[package]
+name = "sol_cgol"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = { version = "0.18.1", features = ["dynamic_linking"] }
+rand = "0.10.1"
+bevy_pancam = "0.20.0"
+web-sys = "0.3.99"
+
+[profile.dev]
+opt-level = 3
