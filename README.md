@@ -1,5 +1,7 @@
 Info:
+
 the game start paused
+
 
 Controls:
 
