@@ -10,7 +10,7 @@ A fully interactive implementation of Conway's Game of Life built in Rust using 
 ## Controls
 | Input | Output |
 |-----------|---------|
-| `RMB Hold` | Spawn cells |
+| `LMB Hold` | Spawn cells |
 | `RMB Click` | Pause and Unpause the game |
 
 ## Demo
