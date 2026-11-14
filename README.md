@@ -26,3 +26,4 @@ Alternatively, a pre-built `main.exe` is included in the release.
 ## Architecture & Design
 - Built with **Bevy's ECS** architecture, separating game data (components) from behavior (systems).
 - Core systems handle cell state updates, neighbor counting, and input for spawning/pausing.
+- [bevy_pancam](https://github.com/johanhelsing/bevy_pancam) is utelized for the camera panning
